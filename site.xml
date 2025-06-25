@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+    <plugin
+        id="com.tcpip147.lsql.eclipse.ui"
+        version="1.0.0"
+        download-size="0"
+        install-size="0"
+        os="*"
+        ws="*"
+        arch="*"
+        fragment="false"/>
+</site>
